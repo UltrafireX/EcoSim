@@ -1,0 +1,515 @@
+Round 1
+Fox 0 moves from (8, 19) to (19, 9)
+Fox 0 moves from (9, 19) to (19, 10)
+Fox 1 moves from (5, 18) to (18, 4)
+Fox 1 moves from (4, 18) to (17, 4)
+Fox 2 moves from (0, 3) to (4, 0)
+Fox 2 moves from (0, 4) to (4, 1)
+Fox 3 moves from (4, 13) to (13, 3)
+Fox 3 moves from (3, 13) to (13, 2)
+Fox 4 moves from (7, 18) to (17, 7)
+Fox 4 moves from (7, 17) to (17, 6)
+Fox 5 moves from (16, 11) to (10, 16)
+Fox 5 moves from (16, 10) to (10, 17)
+Fox 6 moves from (9, 11) to (11, 8)
+Fox 6 moves from (8, 11) to (10, 8)
+Fox 7 moves from (2, 19) to (18, 2)
+Fox 7 moves from (2, 18) to (18, 1)
+Fox 8 moves from (9, 0) to (0, 10)
+Fox 8 moves from (10, 0) to (0, 9)
+Fox 9 moves from (0, 7) to (7, 1)
+Fox 9 moves from (1, 7) to (8, 1)
+Rabbit 10 moves from (11, 7) to (6, 11)
+Rabbit 11 moves from (7, 4) to (4, 6)
+Rabbit 12 moves from (12, 17) to (17, 13)
+Rabbit 13 moves from (1, 19) to (19, 1)
+Rabbit 14 moves from (10, 1) to (1, 11)
+Rabbit 15 moves from (1, 10) to (11, 1)
+Rabbit 16 moves from (12, 7) to (7, 13)
+Rabbit 17 moves from (8, 12) to (13, 8)
+Rabbit 18 moves from (10, 5) to (5, 11)
+Rabbit 19 moves from (17, 9) to (8, 17)
+Rabbit 20 moves from (15, 14) to (15, 15)
+Rabbit 21 moves from (13, 4) to (4, 14)
+Rabbit 22 moves from (17, 15) to (16, 17)
+Rabbit 23 moves from (3, 18) to (18, 2)
+Rabbit 24 moves from (15, 3) to (3, 16)
+Round 2
+Fox 0 moves from (10, 19) to (19, 11)
+Fox 0 moves from (11, 19) to (19, 12)
+Fox 1 moves from (4, 17) to (17, 3)
+Fox 1 eats rabbit 23
+Fox 2 moves from (1, 4) to (3, 1)
+Fox 2 moves from (1, 3) to (3, 2)
+Fox 3 moves from (2, 13) to (13, 1)
+Fox 3 moves from (1, 13) to (12, 1)
+Fox 4 moves from (6, 17) to (17, 7)
+Fox 4 moves from (7, 17) to (17, 8)
+Fox 5 moves from (17, 10) to (9, 17)
+Fox 5 eats rabbit 19
+Fox 6 moves from (8, 10) to (11, 8)
+Fox 6 moves from (8, 11) to (12, 8)
+Fox 7 eats rabbit 13
+Fox 7 moves from (1, 18) to (18, 2)
+Fox 8 moves from (9, 0) to (0, 10)
+Fox 8 eats rabbit 14
+Fox 9 moves from (1, 8) to (9, 1)
+Fox 9 moves from (1, 9) to (10, 1)
+Rabbit 10 moves from (11, 6) to (6, 10)
+Rabbit 11 moves from (6, 4) to (4, 7)
+Rabbit 12 moves from (13, 17) to (17, 14)
+Rabbit 15 moves from (1, 11) to (11, 1)
+Rabbit 16 moves from (13, 7) to (7, 12)
+Rabbit 17 moves from (8, 13) to (14, 8)
+Rabbit 18 moves from (11, 5) to (5, 12)
+Rabbit 20 moves from (15, 15) to (15, 16)
+Rabbit 21 moves from (14, 4) to (4, 15)
+Rabbit 22 moves from (17, 16) to (16, 18)
+Rabbit 24 moves from (16, 3) to (3, 15)
+Round 3
+Fox 0 moves from (12, 19) to (19, 13)
+Fox 0 moves from (13, 19) to (19, 14)
+Fox 1 moves from (3, 17) to (17, 4)
+Fox 1 moves from (4, 17) to (17, 5)
+Fox 2 moves from (2, 3) to (3, 3)
+Fox 2 moves from (3, 3) to (3, 4)
+Fox 3 eats rabbit 15
+Fox 3 moves from (1, 12) to (11, 1)
+Fox 4 moves from (8, 17) to (16, 8)
+Fox 4 moves from (8, 16) to (15, 8)
+Fox 5 moves from (17, 9) to (9, 16)
+Fox 5 moves from (16, 9) to (9, 15)
+Fox 6 moves from (8, 12) to (13, 8)
+Fox 6 eats rabbit 17
+Fox 7 moves from (2, 18) to (18, 3)
+Fox 7 moves from (3, 18) to (18, 4)
+Fox 8 moves from (10, 0) to (0, 9)
+Fox 8 moves from (9, 0) to (0, 8)
+Fox 9 moves from (1, 10) to (10, 0)
+Fox 9 moves from (0, 10) to (10, 1)
+Rabbit 10 moves from (10, 6) to (6, 9)
+Rabbit 11 moves from (7, 4) to (4, 8)
+Rabbit 12 moves from (14, 17) to (18, 14)
+Rabbit 16 moves from (12, 7) to (7, 11)
+Rabbit 18 moves from (12, 5) to (5, 11)
+Rabbit 20 moves from (16, 15) to (15, 17)
+Rabbit 21 moves from (15, 4) to (4, 15)
+Rabbit 22 moves from (18, 16) to (16, 19)
+Rabbit 24 moves from (15, 3) to (2, 15)
+Round 4
+Fox 0 eats rabbit 12
+Fox 0 moves from (14, 19) to (19, 15)
+Fox 1 moves from (5, 17) to (17, 4)
+Fox 1 moves from (4, 17) to (16, 4)
+Fox 2 moves from (4, 3) to (3, 5)
+Fox 2 moves from (5, 3) to (3, 6)
+Fox 3 moves from (1, 11) to (12, 1)
+Fox 3 moves from (1, 12) to (11, 1)
+Fox 4 moves from (8, 15) to (14, 8)
+Fox 4 moves from (8, 14) to (14, 7)
+Fox 5 moves from (15, 9) to (9, 14)
+Fox 5 moves from (14, 9) to (9, 13)
+Fox 6 moves from (8, 13) to (13, 9)
+Fox 6 moves from (9, 13) to (12, 9)
+Fox 7 moves from (4, 18) to (17, 4)
+Fox 7 moves from (4, 17) to (18, 4)
+Fox 8 moves from (8, 0) to (1, 8)
+Fox 8 moves from (8, 1) to (2, 8)
+Fox 9 moves from (1, 10) to (9, 1)
+Fox 9 moves from (1, 9) to (10, 1)
+Rabbit 10 moves from (9, 6) to (6, 10)
+Rabbit 11 moves from (8, 4) to (4, 9)
+Rabbit 16 moves from (11, 7) to (7, 10)
+Rabbit 18 moves from (11, 5) to (5, 12)
+Rabbit 20 moves from (17, 15) to (15, 18)
+Rabbit 21 moves from (15, 4) to (4, 16)
+Rabbit 22 moves from (19, 16) to (15, 19)
+Rabbit 24 moves from (15, 2) to (2, 16)
+Round 5
+Fox 0 moves from (15, 19) to (19, 16)
+Fox 0 moves from (16, 19) to (19, 17)
+Fox 1 moves from (4, 16) to (17, 4)
+Fox 1 moves from (4, 17) to (16, 4)
+Fox 2 moves from (6, 3) to (3, 7)
+Fox 2 moves from (7, 3) to (3, 8)
+Fox 3 moves from (1, 11) to (12, 1)
+Fox 3 moves from (1, 12) to (11, 1)
+Fox 4 moves from (7, 14) to (14, 8)
+Fox 4 moves from (8, 14) to (13, 8)
+Fox 5 moves from (13, 9) to (9, 12)
+Fox 5 moves from (12, 9) to (9, 11)
+Fox 6 moves from (9, 12) to (12, 10)
+Fox 6 moves from (10, 12) to (11, 10)
+Fox 7 moves from (4, 18) to (17, 4)
+Fox 7 moves from (4, 17) to (17, 3)
+Fox 8 moves from (8, 2) to (1, 8)
+Fox 8 moves from (8, 1) to (1, 9)
+Fox 9 moves from (1, 10) to (9, 1)
+Fox 9 moves from (1, 9) to (10, 1)
+Rabbit 10 moves from (10, 6) to (6, 9)
+Rabbit 11 moves from (9, 4) to (4, 10)
+Rabbit 16 moves from (10, 7) to (6, 10)
+Rabbit 18 moves from (12, 5) to (5, 13)
+Rabbit 20 moves from (18, 15) to (14, 18)
+Rabbit 21 moves from (16, 4) to (4, 17)
+Rabbit 22 moves from (19, 15) to (14, 19)
+Rabbit 24 moves from (16, 2) to (2, 17)
+Round 6
+Fox 0 moves from (17, 19) to (19, 17)
+Fox 0 moves from (17, 19) to (19, 16)
+Fox 1 moves from (4, 16) to (17, 4)
+Fox 1 moves from (4, 17) to (16, 4)
+Fox 2 moves from (8, 3) to (3, 9)
+Fox 2 eats rabbit 11
+Fox 3 moves from (1, 11) to (11, 0)
+Fox 3 moves from (0, 11) to (11, 1)
+Fox 4 moves from (8, 13) to (13, 9)
+Fox 4 moves from (9, 13) to (12, 9)
+Fox 5 moves from (11, 9) to (9, 10)
+Fox 5 moves from (10, 9) to (9, 9)
+Fox 6 moves from (10, 11) to (11, 9)
+Fox 6 moves from (9, 11) to (10, 9)
+Fox 7 moves from (3, 17) to (17, 4)
+Fox 7 moves from (4, 17) to (17, 5)
+Fox 8 moves from (9, 1) to (1, 10)
+Fox 8 moves from (10, 1) to (1, 11)
+Fox 9 moves from (1, 10) to (9, 1)
+Fox 9 moves from (1, 9) to (10, 1)
+Rabbit 10 eats carrot 30
+Rabbit 16 moves from (10, 6) to (7, 10)
+Rabbit 18 moves from (13, 5) to (5, 12)
+Rabbit 20 moves from (18, 14) to (14, 17)
+Rabbit 21 moves from (17, 4) to (4, 16)
+Rabbit 22 moves from (19, 14) to (14, 18)
+Rabbit 24 moves from (17, 2) to (2, 16)
+Round 7
+Fox 0 moves from (16, 19) to (19, 17)
+Fox 0 moves from (17, 19) to (19, 17)
+Fox 1 moves from (4, 16) to (16, 5)
+Fox 1 moves from (5, 16) to (15, 5)
+Fox 2 moves from (9, 3) to (3, 10)
+Fox 2 moves from (10, 3) to (3, 11)
+Fox 3 moves from (1, 11) to (11, 0)
+Fox 3 moves from (0, 11) to (11, 1)
+Fox 4 moves from (9, 12) to (12, 10)
+Fox 4 moves from (10, 12) to (11, 10)
+Fox 5 moves from (9, 9) to (9, 10)
+Fox 5 moves from (10, 9) to (8, 10)
+Fox 6 moves from (9, 10) to (10, 10)
+Fox 6 moves from (10, 10) to (9, 10)
+Fox 7 moves from (5, 17) to (16, 5)
+Fox 7 moves from (5, 16) to (16, 4)
+Fox 8 moves from (11, 1) to (1, 12)
+Fox 8 moves from (12, 1) to (2, 12)
+Fox 9 moves from (1, 10) to (9, 1)
+Fox 9 moves from (1, 9) to (10, 1)
+Rabbit 16 moves from (10, 7) to (7, 9)
+Rabbit 18 moves from (12, 5) to (5, 11)
+Rabbit 20 moves from (17, 14) to (15, 17)
+Rabbit 21 moves from (16, 4) to (3, 16)
+Rabbit 22 moves from (18, 14) to (14, 17)
+Round 8
+Fox 0 moves from (17, 19) to (19, 17)
+Fox 0 moves from (17, 19) to (19, 16)
+Fox 1 moves from (5, 15) to (15, 4)
+Fox 1 moves from (4, 15) to (14, 4)
+Fox 2 moves from (11, 3) to (4, 11)
+Fox 2 eats rabbit 18
+Fox 3 moves from (1, 11) to (11, 0)
+Fox 3 moves from (0, 11) to (11, 1)
+Fox 4 moves from (10, 11) to (11, 9)
+Fox 4 moves from (9, 11) to (10, 9)
+Fox 5 eats rabbit 16
+Fox 5 moves from (10, 8) to (8, 9)
+Fox 6 moves from (10, 9) to (9, 9)
+Fox 6 moves from (9, 9) to (9, 9)
+Fox 7 moves from (4, 16) to (15, 4)
+Fox 7 moves from (4, 15) to (15, 5)
+Fox 8 moves from (12, 2) to (1, 12)
+Fox 8 moves from (12, 1) to (2, 12)
+Fox 9 moves from (1, 10) to (9, 1)
+Fox 9 moves from (1, 9) to (10, 1)
+Rabbit 10 moves from (9, 6) to (6, 10)
+Rabbit 20 moves from (17, 15) to (16, 17)
+Rabbit 21 mates with rabbit 24
+Rabbit 22 moves from (17, 14) to (15, 17)
+Rabbit 24 moves from (16, 2) to (2, 17)
+Rabbit 53 moves from (17, 4) to (4, 18)
+Round 9
+Fox 0 moves from (16, 19) to (19, 17)
+Fox 0 moves from (17, 19) to (19, 16)
+Fox 1 moves from (4, 14) to (14, 5)
+Fox 1 moves from (5, 14) to (14, 5)
+Fox 2 moves from (11, 4) to (4, 10)
+Fox 2 moves from (10, 4) to (5, 10)
+Fox 3 moves from (1, 11) to (12, 1)
+Fox 3 moves from (1, 12) to (11, 1)
+Fox 4 moves from (9, 10) to (10, 10)
+Fox 4 moves from (10, 10) to (9, 10)
+Fox 5 moves from (9, 8) to (8, 10)
+Fox 5 moves from (10, 8) to (7, 10)
+Fox 6 moves from (9, 9) to (8, 9)
+Fox 6 moves from (9, 8) to (8, 10)
+Fox 7 moves from (5, 15) to (15, 4)
+Fox 7 moves from (4, 15) to (15, 5)
+Fox 8 moves from (12, 2) to (3, 12)
+Fox 8 moves from (12, 3) to (3, 11)
+Fox 9 moves from (1, 10) to (9, 1)
+Fox 9 moves from (1, 9) to (10, 1)
+Rabbit 10 moves from (10, 6) to (6, 11)
+Rabbit 20 moves from (17, 16) to (17, 17)
+Rabbit 21 moves from (16, 3) to (3, 15)
+Rabbit 22 moves from (17, 15) to (16, 17)
+Rabbit 24 moves from (17, 2) to (2, 18)
+Rabbit 53 moves from (18, 4) to (4, 19)
+Round 10
+Fox 0 moves from (16, 19) to (19, 17)
+Fox 0 moves from (17, 19) to (19, 16)
+Fox 1 moves from (5, 14) to (14, 4)
+Fox 1 moves from (4, 14) to (14, 5)
+Fox 2 eats rabbit 10
+Fox 2 moves from (10, 5) to (5, 11)
+Fox 3 moves from (1, 11) to (11, 2)
+Fox 3 moves from (2, 11) to (11, 1)
+Fox 4 moves from (10, 9) to (9, 11)
+Fox 4 moves from (11, 9) to (9, 12)
+Fox 5 moves from (10, 7) to (7, 11)
+Fox 5 moves from (11, 7) to (7, 12)
+Fox 6 moves from (10, 8) to (8, 11)
+Fox 6 moves from (11, 8) to (8, 12)
+Fox 7 moves from (5, 15) to (15, 4)
+Fox 7 moves from (4, 15) to (15, 5)
+Fox 8 moves from (11, 3) to (3, 12)
+Fox 8 moves from (12, 3) to (3, 13)
+Fox 9 moves from (1, 10) to (10, 0)
+Fox 9 moves from (0, 10) to (10, 1)
+Rabbit 20 eats carrot 25
+Rabbit 21 moves from (15, 3) to (3, 16)
+Rabbit 22 moves from (17, 16) to (16, 16)
+Rabbit 24 moves from (18, 2) to (2, 19)
+Rabbit 53 moves from (19, 4) to (5, 19)
+Round 11
+Fox 0 moves from (16, 19) to (19, 17)
+Fox 0 moves from (17, 19) to (18, 17)
+Fox 2 moves from (11, 5) to (5, 12)
+Fox 2 moves from (12, 5) to (5, 13)
+Fox 4 moves from (12, 9) to (9, 13)
+Fox 4 starves
+Fox 5 moves from (12, 7) to (7, 13)
+Fox 5 moves from (13, 7) to (7, 14)
+Fox 6 moves from (12, 8) to (8, 13)
+Fox 6 moves from (13, 8) to (7, 13)
+Fox 7 mates with rabbit 1
+Fox 7 moves from (5, 15) to (16, 5)
+Fox 8 moves from (13, 3) to (3, 14)
+Fox 8 moves from (14, 3) to (3, 15)
+Fox 9 mates with rabbit 3
+Fox 9 starves
+Rabbit 21 moves from (16, 3) to (4, 16)
+Rabbit 21 starves
+Rabbit 22 moves from (16, 16) to (16, 15)
+Rabbit 22 starves
+Rabbit 24 moves from (19, 2) to (1, 19)
+Rabbit 24 starves
+Rabbit 53 moves from (19, 5) to (6, 19)
+Round 12
+Fox 0 eats rabbit 20
+Fox 0 moves from (17, 18) to (19, 17)
+Fox 1 moves from (5, 14) to (14, 6)
+Fox 1 moves from (6, 14) to (14, 5)
+Fox 54 moves from (6, 15) to (15, 5)
+Fox 54 moves from (5, 15) to (15, 6)
+Fox 2 moves from (13, 5) to (5, 14)
+Fox 2 moves from (14, 5) to (5, 15)
+Fox 3 moves from (1, 11) to (11, 2)
+Fox 3 moves from (2, 11) to (12, 2)
+Fox 55 moves from (2, 10) to (11, 2)
+Fox 55 moves from (2, 11) to (11, 1)
+Fox 5 moves from (14, 7) to (7, 15)
+Fox 5 moves from (15, 7) to (6, 15)
+Fox 6 moves from (13, 7) to (7, 14)
+Fox 6 moves from (14, 7) to (7, 15)
+Fox 7 moves from (5, 16) to (15, 5)
+Fox 7 starves
+Fox 8 moves from (15, 3) to (3, 16)
+Fox 8 moves from (16, 3) to (4, 16)
+Rabbit 53 moves from (19, 6) to (7, 19)
+Plant 34 died
+Plant 40 died
+Plant 41 died
+Plant 46 died
+Round 13
+Fox 0 moves from (17, 19) to (18, 17)
+Fox 0 moves from (17, 18) to (17, 17)
+Fox 1 moves from (5, 14) to (14, 6)
+Fox 1 starves
+Fox 54 moves from (6, 15) to (15, 5)
+Fox 54 moves from (5, 15) to (15, 4)
+Fox 2 moves from (15, 5) to (5, 16)
+Fox 2 moves from (16, 5) to (5, 17)
+Fox 3 moves from (2, 12) to (12, 1)
+Fox 3 starves
+Fox 55 moves from (1, 11) to (11, 2)
+Fox 55 moves from (2, 11) to (11, 3)
+Fox 5 moves from (15, 6) to (6, 16)
+Fox 5 moves from (16, 6) to (6, 17)
+Fox 6 moves from (15, 7) to (7, 16)
+Fox 6 moves from (16, 7) to (7, 17)
+Fox 8 moves from (16, 4) to (4, 17)
+Fox 8 starves
+Rabbit 53 moves from (19, 7) to (7, 18)
+Plant 35 died
+Plant 39 died
+Plant 44 died
+Round 14
+Fox 0 moves from (17, 17) to (17, 16)
+Fox 0 moves from (16, 17) to (17, 15)
+Fox 54 moves from (4, 15) to (15, 3)
+Fox 54 moves from (3, 15) to (14, 3)
+Fox 2 moves from (17, 5) to (5, 18)
+Fox 2 moves from (18, 5) to (6, 18)
+Fox 55 moves from (3, 11) to (12, 3)
+Fox 55 moves from (3, 12) to (13, 3)
+Fox 5 eats rabbit 53
+Fox 6 mates with rabbit 5
+Fox 6 starves
+Fox 63 moves from (18, 7) to (7, 17)
+Fox 63 moves from (17, 7) to (8, 17)
+Plant 37 died
+Plant 42 died
+Plant 45 died
+Round 15
+Fox 0 moves from (15, 17) to (17, 14)
+Fox 0 moves from (14, 17) to (17, 15)
+Fox 54 moves from (3, 14) to (14, 2)
+Fox 54 moves from (2, 14) to (14, 3)
+Fox 55 moves from (3, 13) to (12, 3)
+Fox 55 moves from (3, 12) to (13, 3)
+Fox 5 moves from (17, 6) to (6, 16)
+Fox 5 moves from (16, 6) to (6, 17)
+Fox 63 moves from (17, 8) to (7, 17)
+Fox 63 moves from (17, 7) to (8, 17)
+Plant 36 died
+Plant 51 died
+Round 16
+Fox 0 moves from (15, 17) to (17, 14)
+Fox 0 moves from (14, 17) to (18, 14)
+Fox 54 moves from (3, 14) to (15, 3)
+Fox 54 moves from (3, 15) to (14, 3)
+Fox 55 moves from (3, 13) to (13, 4)
+Fox 55 moves from (4, 13) to (13, 3)
+Fox 5 moves from (17, 6) to (5, 17)
+Fox 5 moves from (17, 5) to (5, 18)
+Fox 63 moves from (17, 8) to (8, 18)
+Fox 63 moves from (18, 8) to (7, 18)
+Plant 33 died
+Plant 43 died
+Plant 50 died
+Plant 52 died
+Round 17
+Fox 0 moves from (14, 18) to (19, 14)
+Fox 0 moves from (14, 19) to (19, 15)
+Fox 54 moves from (3, 14) to (15, 3)
+Fox 54 moves from (3, 15) to (14, 3)
+Fox 55 moves from (3, 13) to (12, 3)
+Fox 55 moves from (3, 12) to (13, 3)
+Fox 5 moves from (18, 5) to (5, 19)
+Fox 5 moves from (19, 5) to (5, 18)
+Fox 63 moves from (18, 7) to (7, 19)
+Fox 63 moves from (19, 7) to (7, 18)
+Plant 38 died
+Plant 48 died
+Round 18
+Fox 0 moves from (15, 19) to (19, 16)
+Fox 0 moves from (16, 19) to (18, 16)
+Fox 54 moves from (3, 14) to (15, 3)
+Fox 54 moves from (3, 15) to (14, 3)
+Fox 55 moves from (3, 13) to (13, 4)
+Fox 55 moves from (4, 13) to (13, 3)
+Fox 5 moves from (18, 5) to (5, 19)
+Fox 5 moves from (19, 5) to (5, 18)
+Fox 63 moves from (18, 7) to (7, 17)
+Fox 63 moves from (17, 7) to (7, 18)
+Plant 29 died
+Plant 47 died
+Plant 49 died
+Round 19
+Fox 0 moves from (16, 18) to (17, 16)
+Fox 0 moves from (16, 17) to (18, 16)
+Fox 54 moves from (3, 14) to (15, 3)
+Fox 54 moves from (3, 15) to (14, 3)
+Fox 55 moves from (3, 13) to (13, 4)
+Fox 55 moves from (4, 13) to (13, 3)
+Fox 5 moves from (18, 5) to (4, 18)
+Fox 5 moves from (18, 4) to (5, 18)
+Fox 63 moves from (18, 7) to (8, 18)
+Fox 63 moves from (18, 8) to (7, 18)
+Plant 28 died
+Plant 31 died
+Round 20
+Fox 0 moves from (16, 18) to (17, 16)
+Fox 0 moves from (16, 17) to (16, 16)
+Fox 54 moves from (3, 14) to (15, 3)
+Fox 54 moves from (3, 15) to (14, 3)
+Fox 2 starves
+Fox 55 moves from (3, 13) to (12, 3)
+Fox 55 moves from (3, 12) to (13, 3)
+Fox 5 moves from (18, 5) to (6, 18)
+Fox 5 moves from (18, 6) to (6, 17)
+Fox 63 moves from (18, 7) to (7, 17)
+Fox 63 moves from (17, 7) to (7, 17)
+Plant 27 died
+Round 21
+Fox 0 moves from (16, 16) to (15, 16)
+Fox 0 moves from (16, 15) to (15, 15)
+Fox 54 moves from (3, 14) to (15, 3)
+Fox 54 moves from (3, 15) to (14, 3)
+Fox 55 moves from (3, 13) to (12, 3)
+Fox 55 moves from (3, 12) to (13, 3)
+Fox 5 moves from (17, 6) to (5, 17)
+Fox 5 moves from (17, 5) to (6, 17)
+Fox 63 moves from (17, 7) to (7, 17)
+Fox 63 moves from (17, 7) to (8, 17)
+Plant 32 died
+Round 22
+Fox 0 moves from (15, 15) to (14, 15)
+Fox 0 starves
+Fox 54 starves
+Fox 55 moves from (3, 13) to (12, 3)
+Fox 55 starves
+Fox 5 moves from (17, 6) to (7, 17)
+Fox 5 moves from (17, 7) to (7, 17)
+Fox 63 moves from (17, 8) to (9, 17)
+Fox 63 moves from (17, 9) to (8, 17)
+Round 23
+Fox 5 moves from (17, 7) to (7, 16)
+Fox 5 moves from (16, 7) to (7, 17)
+Fox 63 moves from (17, 8) to (9, 17)
+Fox 63 moves from (17, 9) to (8, 17)
+Round 24
+Fox 5 moves from (17, 7) to (6, 17)
+Fox 5 starves
+Fox 63 moves from (17, 8) to (8, 18)
+Fox 63 starves
+Plant 26 died
+Round 25
+Plant 57 died
+Plant 58 died
+Round 26
+Plant 67 died
+Plant 65 died
+Plant 66 died
+Round 27
+Plant 56 died
+Plant 60 died
+Round 28
+Plant 69 died
+Plant 64 died
+Plant 61 died
+Plant 70 died
+Plant 62 died
+Plant 71 died
+Round 29
+Plant 59 died
+Plant 68 died
+Round 30

@@ -1,0 +1,19 @@
+Dependencies:
+Try running it without installing anything let me know if it works.
+If not:
+libgtk-3-0	
+libgtk-3-dev (I dont know if -dev is needed, again try without and see if it works)
+
+
+To run EcoSim you have to call it from the command line 
+so do "./EcoSim input.txt"
+
+within input.txt are the parameters of the simulation
+look in there for more detail
+
+within the program you will see:
+a grid where things move 
+a log of all the actions that are happening
+start button - this starts the program
+pause button - to pause the program (to resume, press start)
+save button  - this saves the log to "Events.log"

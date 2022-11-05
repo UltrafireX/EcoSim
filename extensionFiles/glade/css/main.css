@@ -1,0 +1,25 @@
+#TextView text{
+    background-color:#9ccc97 ;
+    color: #2e102e;
+}
+#Map{
+    background:#4b673a ;
+}
+
+#Cat{
+    background:#62ff00
+}
+
+#Pane, #Pane2 {
+    background-image: url("../images/background.png");
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+#SaveButton, #Start, #Pause{
+    background-image: none;
+    background: #6e885e;
+    color: #2e102e;
+}

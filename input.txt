@@ -1,0 +1,70 @@
+/*
+	Replace the numbers in this file to change the statistics of each creature, as well as the 
+	properties of the board.
+	DO NOT CHANGE the format of this file.
+
+	Seed sets the random number generators, which allows for reproducible results.
+	Size chooses the size of the board, example size 20 = 20 by 20 board.
+	Rounds sets the maximum number of rounds to run the simulation for.
+	
+	Number represents the number of creatures creature at the initial state of the board.
+	Max Age represents the average number of rounds it takes a creature to die of old age.
+	Max Hunger represents the desire of a creature to eat, as well as the number of rounds until a creauture dies of hunger.
+	Max Libido represents the desire of a creature to reproduce, a lower value represents a higher desire. This value should not be set to lower than 2.
+	Fear represents the desire of a creature to run away from predetors, a lower value represents a higher desire.
+	Speed represents the number of actions a creature can take each round.
+	Sight represents the radius of the area a creature can see other creatures to in squares.
+
+	None of these values should be set to negative numbers.
+*/
+
+Begin File
+
+Board:
+	Seed:1441412413
+	Size:20
+	Rounds:30
+
+
+Animals:
+
+Fox:
+	Number:5
+	Max Age:30
+	Max Hunger:10
+	Max Libido:20
+	Fear:100
+	Speed:2
+	Sight:6
+
+Rabbit:
+	Number:20
+	Max Age:20
+	Max Hunger:10
+	Max Libido:10
+	Fear:5
+	Speed:1
+	Sight:7
+
+
+Plants:
+
+Carrot:
+	Number:10
+	Max Age:30
+	Max Hunger:10
+	Max Libido:2
+	Fear:100
+	Speed:0
+	Sight:10
+
+Tree:
+	Number:30
+	Max Age:20
+	Max Hunger:10
+	Max Libido:1
+	Fear:100
+	Speed:1
+	Sight:10
+
+End File
